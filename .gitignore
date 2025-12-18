@@ -1,5 +1,15 @@
+# Terraform
 .terraform/
 *.tfstate
-*.tfstate.*
+*.tfstate.backup
 .terraform.lock.hcl
-.terraform.lock.hcl
+
+# AWS
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
